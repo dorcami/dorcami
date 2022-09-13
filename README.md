@@ -1,12 +1,15 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-Hi! <br>
-I'm a self-taught full stack web developer.<br>
-
+<h1 align="left">Hi! 👋</h1>
+<h3 align="left">I'm a passionate self-taught fullstack developer</h3>
+<br>
+<h4>Connect with me:</h4>
 💼 any freelance work? <a href="mailto:dorcami@gmail.com">email me</a> :)<br>
 💬 Need some help? feel free to ask about anything, i'll be more than happy to help!<br>
 <br>
-languages and tools:<br>
+<h3>languages and technologies:</h3>
+
+
 <br>
 <div style={
    display: flex;
